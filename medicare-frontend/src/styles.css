@@ -1,0 +1,7 @@
+body {
+  background: #f5f7fb;
+  min-height: 100vh;
+}
+.navbar-brand { font-weight: 700; letter-spacing: .2px; }
+.card { border: none; border-radius: 10px; box-shadow: 0 6px 18px rgba(19, 35, 47, 0.06); }
+.table > tbody > tr > td { vertical-align: middle; }
